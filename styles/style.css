@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  font-family: 'Work Sans';
+  font-family: "Work Sans";
 }
 
 /**Header**/
@@ -15,9 +15,8 @@
   text-align: right;
   padding-top: 225px;
   margin-left: 800px;
-  color: #FFFFFF;
+  color: #ffffff;
   width: 480px;
-
 }
 
 .banner-title {
@@ -36,10 +35,10 @@
 .primary-btn {
   width: 160px;
   height: 64px;
-  background: #FFFFFF;
+  background: #ffffff;
   border-radius: 5px;
   border: 0;
-  color: #005FAC;
+  color: #005fac;
   font-weight: 600;
   font-size: 20px;
 }
@@ -119,7 +118,8 @@
   width: 1140px;
   height: 300px;
   margin: 130px auto;
-  background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+  background: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
+    url(../images/watch.png);
   border-radius: 8px;
 }
 
@@ -131,7 +131,7 @@
 
 .image-info-container .section-title {
   padding-top: 59px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 /**footer**/
@@ -155,21 +155,21 @@
 .contact-title {
   font-weight: 700;
   font-size: 45px;
-  color: #F8F8F8;
+  color: #f8f8f8;
 }
 
 .contact-description {
   width: 485px;
   font-weight: 400;
   font-size: 16px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 15px;
   margin-bottom: 25px;
   line-height: 26px;
 }
 
 .contact-social p {
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 15px;
 }
 
@@ -188,7 +188,7 @@
   font-style: normal;
   font-weight: 600;
   font-size: 25px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .contact-mail input {
@@ -197,12 +197,12 @@
   border-radius: 8px;
   font-size: 18px;
   background: none;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   margin-top: 30px;
   margin-bottom: 18px;
 }
 
-.contact-mail .primary-btn{
-  background: #005FAC;
-  color: #FFFFFF;
+.contact-mail .primary-btn {
+  background: #005fac;
+  color: #ffffff;
 }
