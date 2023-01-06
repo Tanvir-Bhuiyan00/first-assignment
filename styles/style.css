@@ -16,6 +16,7 @@
   padding: 215px 230px 165px 845px;
   color: #FFFFFF;
   width: 480px;
+
 }
 
 .banner-title {
@@ -58,7 +59,7 @@
   margin-top: 240px;
 }
 
-.about-me-title {
+.section-title {
   font-weight: 700;
   font-size: 40px;
   color: #151414;
@@ -73,10 +74,40 @@
   margin-bottom: 15px;
 }
 
-.list-point p{
+.list-point p {
   color: #444343;
   margin-bottom: 8px;
 }
-.check{
+
+.check {
   margin-right: 10px;
+}
+
+/** My plan Section**/
+
+.my-plan .section-title {
+  text-align: center;
+}
+
+.my-plan-container {
+  display: flex;
+  justify-content: space-around;
+  width: 1140px;
+  height: 205px;
+  text-align: center;
+  margin: 50px auto 130px auto;
+}
+
+.my-info-title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.my-info-description {
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
 }
