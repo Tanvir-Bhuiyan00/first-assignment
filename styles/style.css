@@ -41,3 +41,42 @@
   font-weight: 600;
   font-size: 20px;
 }
+
+/**about me section**/
+.about-me {
+  display: flex;
+  justify-content: space-between;
+  width: 1070px;
+  height: 725px;
+  margin: 130px auto;
+}
+
+.about-me-container {
+  width: 416px;
+  height: 400px;
+  text-align: left;
+  margin-top: 240px;
+}
+
+.about-me-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 25px;
+}
+
+.about-me-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #444343;
+  margin-bottom: 15px;
+}
+
+.list-point p{
+  color: #444343;
+  margin-bottom: 8px;
+}
+.check{
+  margin-right: 10px;
+}
