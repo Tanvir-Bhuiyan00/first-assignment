@@ -111,3 +111,24 @@
   font-size: 25px;
   color: #737272;
 }
+
+/** Image-gradient **/
+
+.image-container {
+  width: 1140px;
+  height: 300px;
+  margin: 130px auto;
+  background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+  border-radius: 8px;
+}
+
+.image-info-container {
+  width: 459px;
+  height: 182px;
+  margin-left: 64px;
+}
+
+.image-info-container .section-title {
+  padding-top: 59px;
+  color: #FFFFFF;
+}
